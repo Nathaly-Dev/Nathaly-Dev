@@ -22,13 +22,6 @@ Busco vaga júnior remota a partir de janeiro de 2027.
   </a>
 </p>
 
-<details>
-<summary><strong>🇺🇸 English</strong></summary>
-
-Junior AI Engineer focused on generative AI (LLMs, RAG, agents), built on a Python and SQL backend foundation. I hold a degree in Systems Analysis and Development plus postgraduate certificates in Full Stack Web Development and in AI & Machine Learning. I learn by building: each course becomes a project applied to a real problem. Looking for a remote junior role from January 2027.
-
-</details>
-
 ---
 
 # 👩🏻‍💻 Sobre mim
