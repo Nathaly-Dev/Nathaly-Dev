@@ -62,10 +62,6 @@ Construo projetos de IA aplicados a problemas reais, sobre uma base de backend e
 <img src="https://streak-stats.demolab.com?user=Nathaly-Dev&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathaly-Dev&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 > **Aprender com constância. Construir com qualidade.**
