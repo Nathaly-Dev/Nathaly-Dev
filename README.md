@@ -2,14 +2,15 @@
   <img src="./assets/banner.png" width="100%" alt="Nathaly Dev Banner">
 </p>
 
-<h1 align="center">Hi, I'm Nathaly 👋</h1>
+<h1 align="center">Olá, eu sou a Nathaly 👋</h1>
 
 <p align="center">
-  <strong>Python Backend Developer in Training • Cloud Security</strong>
+  <strong>Engenharia de IA Júnior • IA Generativa (LLMs, RAG, Agentes) • Backend Python</strong>
 </p>
 
 <p align="center">
-Building clean, scalable and secure backend applications through continuous learning and hands-on projects.
+Construo projetos de IA aplicados a problemas reais, sobre uma base de backend em Python e SQL.<br>
+Busco vaga júnior remota a partir de janeiro de 2027.
 </p>
 
 <p align="center">
@@ -21,98 +22,75 @@ Building clean, scalable and secure backend applications through continuous lear
   </a>
 </p>
 
----
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
 
-# 👩🏻‍💻 About Me
+Junior AI Engineer focused on generative AI (LLMs, RAG, agents), built on a Python and SQL backend foundation. I hold a degree in Systems Analysis and Development plus postgraduate certificates in Full Stack Web Development and in AI & Machine Learning. I learn by building: each course becomes a project applied to a real problem. Looking for a remote junior role from January 2027.
 
-```python
-class Nathaly:
-
-    role = "Python Backend Developer in Training"
-
-    focus = [
-        "Python",
-        "Backend Development",
-        "Cloud Security"
-    ]
-
-    learning = "Build → Practice → Improve"
-
-    goal = "Become a Backend Developer specialized in Cloud Security"
-```
+</details>
 
 ---
 
-# 🚀 Tech Stack
+# 👩🏻‍💻 Sobre mim
 
-<p align="center">
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
+- 🎓 Pós-graduação em Desenvolvimento Web Full Stack
+- 🎓 Pós-graduação em Inteligência Artificial & Machine Learning
+- 🧱 Aprendo construindo: cada curso vira um projeto para um problema real
+- 🌎 Estudando inglês e espanhol, com objetivo de carreira internacional
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark"/>
+---
 
+# 🛠️ Projetos
+
+| Projeto | Descrição | Status |
+| ------- | --------- | ------ |
+| 📄 **Assistente de documentos com RAG** | Responde perguntas sobre documentos, citando a fonte. | Em desenvolvimento, v1 em 21/11/2026, deploy AWS em 19/12/2026 |
+| 📦 **Agente de estoque** | Agente com LangGraph e MCP para controle de estoque de um negócio real. | Planejado, 19/12/2026 |
+| 🗣️ **Tutor de inglês com IA** | Tutor de conversação e correção com LLMs. | Planejado, 07/01/2027 |
+| 🌐 **Portfólio Nathaly Dev** | Site bilíngue (PT/EN) com modo claro e escuro. | Publicado |
+| 🍽️ **Menu Go** | Sistema de gestão de restaurante, feito aprendendo Python. | Concluído |
+| 📖 **Learning Journal** | Notas técnicas e documentação de estudos. | Contínuo |
+
+---
+
+# 🚀 Stack
+
+**Uso hoje**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,nextjs,ts,tailwind,vscode&theme=dark"/>
 </p>
 
----
+**Estudando agora** (roadmap até jan/2027)
 
-# 📖 Learning Roadmap
-
-```text
-✅ Git & GitHub
-
-🔄 Python Fundamentals
-
-⬜ FastAPI
-⬜ REST APIs
-⬜ SQL
-⬜ PostgreSQL
-⬜ Docker
-⬜ Linux
-⬜ AWS
-⬜ Cloud Security
-```
+`FastAPI` · `LangChain` · `LangGraph` · `MCP` · `Deepeval` · `Docker` · `AWS` · `Pandas` · `scikit-learn` · `PyTorch`
 
 ---
 
-# 📂 Featured Projects
+# 🎯 Metas até janeiro/2027
 
-| Project                 | Description                                               |
-| ----------------------- | --------------------------------------------------------- |
-| 🍽️ **Menu Go**          | Restaurant management system built while learning Python. |
-| 📖 **Learning Journal** | Technical notes and learning documentation.               |
+- [ ] Publicar a v1 do assistente de documentos com RAG
+- [ ] Fazer deploy do assistente na AWS
+- [ ] Concluir o agente de estoque com LangGraph e MCP
+- [ ] Concluir o tutor de inglês com IA
+- [ ] Começar as candidaturas em 08/01/2027
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Nathaly-Dev&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathaly-Dev&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-- Build production-ready backend applications
-- Master FastAPI
-- Design REST APIs
-- Learn Docker and Linux
-- Study AWS fundamentals
-- Develop Cloud Security skills
-- Contribute to Open Source
-- Land my first Backend Developer role
-
----
-
-# 💜 Philosophy
-
-> **Learn consistently. Build with quality.**
+> **Aprender com constância. Construir com qualidade.**
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6D28D9"/>
