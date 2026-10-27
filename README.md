@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Engenheira de IA júnior com foco em **IA generativa de ponta a ponta** (LLMs, RAG e agentes), construída sobre uma base de **backend em Python e SQL**. Trabalho com segurança e de forma governada, e busco minha primeira posição como Engenheira de IA Júnior.
+Engenheira de IA júnior com foco em **IA generativa de ponta a ponta** (LLMs, RAG e agentes), construída sobre uma base de **backend em Python e SQL**. Trabalho com segurança e de forma governada, e busco minha primeira posição como Engenheira de IA Júnior, em vagas **remotas ou híbridas**.
 
 Formação: graduação em Análise e Desenvolvimento de Sistemas e duas pós-graduações, em **IA e Machine Learning** e em **Desenvolvimento Web Full Stack**.
 
@@ -64,7 +64,7 @@ Os demais projetos, com problema, solução e stack, ficam no [portfólio](https
 - Portfólio: [portfolio-nathaly-omega.vercel.app](https://portfolio-nathaly-omega.vercel.app)
 - LinkedIn: [linkedin.com/in/nathaly-vitoria-dev](https://www.linkedin.com/in/nathaly-vitoria-dev/)
 - E-mail: [nathalydc2023@gmail.com](mailto:nathalydc2023@gmail.com)
-- Local: Guareí, SP · Brasil, aberta a trabalho remoto
+- Local: Guareí, SP · Brasil, aberta a vagas remotas ou híbridas
 - Idiomas: português (nativo), inglês (técnico), espanhol (técnico)
 
 <p align="center">
